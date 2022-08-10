@@ -39,11 +39,11 @@
 ### 📖 Latest blog posts
 
 <!-- start-blog-posts -->
+- [Sort Imports on save với ESLint](https://blog.napthedev.com/post/sort-imports-on-save-voi-eslint)
 - [10 đoạn code Javascript hữu ích](https://blog.napthedev.com/post/10-doan-code-javascript-huu-ich)
 - [Phương pháp học lập trình web hiệu quả](https://blog.napthedev.com/post/phuong-phap-hoc-lap-trinh-web-hieu-qua)
 - [Await một class trong javascript?](https://blog.napthedev.com/post/await-mot-class-trong-javascript)
 - [Tạo dự án React, Typescript, Webpack từ đầu](https://blog.napthedev.com/post/tao-du-an-react-typescript-webpack-tu-dau)
-- [Modal Box với CSS Only](https://blog.napthedev.com/post/modal-box-voi-css-only)
 <!-- end-blog-posts -->
 
 ### 🌐️ Reach me at
