@@ -17,7 +17,7 @@ const token = process.env.GH_TOKEN;
     const readmeContent = Buffer.from(content, encoding).toString();
 
     const latestPosts = (
-      await axios.get("https://blog.napthedev.com/api/latest")
+      await axios.get("https://blog-napthedev.vercel.app/api/latest")
     ).data;
 
     const { sha } = (
